@@ -1,4 +1,4 @@
-# dotfiles
+# dotfiles and other wizardry
 
 Rice is love, rice is life.
 
